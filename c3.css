@@ -1,0 +1,9 @@
+body {
+    background-color: thistle;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: black;
+}
