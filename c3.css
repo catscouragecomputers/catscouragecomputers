@@ -7,3 +7,16 @@ body {
     border-radius: 0;
     background-color: black;
 }
+
+.centerText {
+    text-align: center;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.classes {
+    width: 50%;
+    float: left;
+}
