@@ -12,6 +12,16 @@ body {
     text-align: center;
 }
 
+.centerContent {
+    display: block;
+    margin: 0 auto;
+}
+
 .underline {
     text-decoration: underline;
+}
+
+#profile {
+    width: 50vh;
+    margin-top: 40px;
 }
